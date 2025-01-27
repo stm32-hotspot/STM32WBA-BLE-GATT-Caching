@@ -8,6 +8,8 @@ Both devices support GATT caching feature.
 The client stores the discovered attribute handles and Database Hash value. 
 Purpose is to show the use of the Database Hash value and the use of Robust caching in Client Supported Feature characteristic.   
 
+For more information regarding BLE GATT Caching feature, please visit BLE GATT Caching Wiki documentation (https://wiki.st.com/stm32mcu/wiki/Connectivity:STM32WB-WBA_GATT_caching).
+
 ## Setup
 These applications are running on two **NUCLEO-WBA55CGA boards**. 
 Applications are derived from BLE_GATT_caching_Client and BLE_GATT_caching_Server applications for use of extended advertising.
